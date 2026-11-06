@@ -1,16 +1,14 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="{{NOM}} · @El-Kamzy-FR — Administration systèmes et réseaux, cloud Microsoft et automatisation" />
+  <img src="assets/banner.svg" width="100%" alt="Charly · @El-Kamzy-FR — Administration systèmes et réseaux, cloud Microsoft et automatisation" />
 </p>
 
 <p align="center">
-  <a href="{{LINKEDIN}}"><img src="https://img.shields.io/badge/LinkedIn-151518?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:{{EMAIL}}"><img src="https://img.shields.io/badge/Me_contacter-151518?style=for-the-badge&logo=maildotru&logoColor=22D3EE" alt="Me contacter" /></a>
   <a href="https://github.com/El-Kamzy-FR?tab=repositories"><img src="https://img.shields.io/badge/Mes_dépôts-151518?style=for-the-badge&logo=github&logoColor=white" alt="Mes dépôts" /></a>
   <img src="https://komarev.com/ghpvc/?username=El-Kamzy-FR&label=Visites&color=8B5CF6&style=for-the-badge" alt="Visites du profil" />
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="80%" alt="PS> whoami : {{NOM}}, alternant administrateur systèmes et réseaux · BTS GMSI, Licence ASR, Master · Cybersécurité, cloud Microsoft, infrastructure, automatisation, IA · Projets : Nexus, Pulse, Station Blanche, Homelab" />
+  <img src="assets/terminal.svg" width="80%" alt="PS> whoami : Charly, alternant administrateur systèmes et réseaux · BTS GMSI, Licence ASR, Master · Cybersécurité, cloud Microsoft, infrastructure, automatisation, IA · Projets : Nexus, Pulse, Station Blanche, Homelab" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
@@ -23,7 +21,7 @@
 
 ## 💼 Expérience
 
-### Alternant administrateur systèmes et réseaux · {{ENTREPRISE}}
+### Alternant administrateur systèmes et réseaux
 <sub>📅 Septembre 2024 → aujourd'hui · équipe infrastructure (1 manager, 2 ingénieurs, 1 technicien)</sub>
 
 - 🏗️ **Infrastructure** — participation au déploiement d'une infrastructure **Hyper-V** sur deux sites (baies **SAN**, sauvegardes **Veeam**)
@@ -124,8 +122,7 @@
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center">
-  <b>Ouvert aux échanges</b> : infrastructure, Microsoft 365, cybersécurité, outils Windows.<br/>
-  <a href="{{LINKEDIN}}">LinkedIn</a> · <a href="mailto:{{EMAIL}}">{{EMAIL}}</a>
+  <b>Ouvert aux échanges</b> : infrastructure, Microsoft 365, cybersécurité, outils Windows.
 </p>
 
 <p align="center"><sub>Page générée en SVG fait maison · mise à jour automatique du serpent chaque nuit via GitHub Actions</sub></p>

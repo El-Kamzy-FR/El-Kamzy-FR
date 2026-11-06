@@ -48,5 +48,5 @@
   <!-- Alternance -->
   <rect x="190" y="272" width="820" height="30" rx="15" fill="#151518" stroke="#26262B"/>
   <rect x="190" y="272" width="410" height="30" rx="15" fill="url(#a)" opacity=".22"/>
-  <text x="600" y="292" text-anchor="middle" class="su" style="fill:#E4E4E7">Tout le parcours en alternance · en entreprise depuis 2024 · {{ENTREPRISE}}</text>
+  <text x="600" y="292" text-anchor="middle" class="su" style="fill:#E4E4E7">Tout le parcours en alternance · en entreprise depuis 2024</text>
 </svg>
