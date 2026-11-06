@@ -1,96 +1,131 @@
 <p align="center">
-  <a href="https://github.com/El-Kamzy-FR">
-    <img src="assets/banner.svg" width="100%" alt="Charly · El-Kamzy-FR — Administration systèmes et réseaux, cloud Microsoft et automatisation" />
-  </a>
+  <img src="assets/banner.svg" width="100%" alt="{{NOM}} · @El-Kamzy-FR — Administration systèmes et réseaux, cloud Microsoft et automatisation" />
 </p>
 
 <p align="center">
+  <a href="{{LINKEDIN}}"><img src="https://img.shields.io/badge/LinkedIn-151518?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:{{EMAIL}}"><img src="https://img.shields.io/badge/Me_contacter-151518?style=for-the-badge&logo=maildotru&logoColor=22D3EE" alt="Me contacter" /></a>
   <a href="https://github.com/El-Kamzy-FR?tab=repositories"><img src="https://img.shields.io/badge/Mes_dépôts-151518?style=for-the-badge&logo=github&logoColor=white" alt="Mes dépôts" /></a>
-  <img src="https://img.shields.io/badge/Alternance-Licence_ASR-151518?style=for-the-badge&labelColor=8B5CF6&color=151518" alt="Alternance Licence ASR" />
-  <img src="https://img.shields.io/badge/Objectif-Master_2029-151518?style=for-the-badge&labelColor=22D3EE&color=151518" alt="Objectif Master 2029" />
+  <img src="https://komarev.com/ghpvc/?username=El-Kamzy-FR&label=Visites&color=8B5CF6&style=for-the-badge" alt="Visites du profil" />
+</p>
+
+<p align="center">
+  <img src="assets/terminal.svg" width="80%" alt="PS> whoami : {{NOM}}, alternant administrateur systèmes et réseaux · BTS GMSI, Licence ASR, Master · Cybersécurité, cloud Microsoft, infrastructure, automatisation, IA · Projets : Nexus, Pulse, Station Blanche, Homelab" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 👋 À propos
+## 🎓 Parcours
 
-Étudiant en informatique **en alternance**, spécialisé **systèmes et réseaux**. Je travaille au quotidien dans une équipe d'infrastructure (support, administration, projets clients) et je développe à côté mes propres outils pour automatiser et comprendre ce que je fais.
+<p align="center">
+  <img src="assets/parcours.svg" width="100%" alt="BTS GMSI 2024-2026 (obtenu) · Licence Administrateur Systèmes et Réseaux 2026-2027 (en cours) · Master 2027-2029 (objectif), en alternance" />
+</p>
 
-- 🎓 **BTS GMSI** (Gestionnaire en Maintenance et Support Informatique) — obtenu en 2026
-- 🎓 **Licence Administrateur Systèmes et Réseaux** — en cours (2026 → 2027), puis Master (2027 → 2029)
-- 🔭 En ce moment : mon **homelab** (hyperviseur, NAS, switch 2,5 Gb, pare-feu virtualisé) et mes outils Windows **Nexus** et **Pulse**
-- 🌱 Je m'intéresse surtout à la **cybersécurité**, au **cloud Microsoft** et à l'**automatisation**
+## 💼 Expérience
+
+### Alternant administrateur systèmes et réseaux · {{ENTREPRISE}}
+<sub>📅 Septembre 2024 → aujourd'hui · équipe infrastructure (1 manager, 2 ingénieurs, 1 technicien)</sub>
+
+- 🏗️ **Infrastructure** — participation au déploiement d'une infrastructure **Hyper-V** sur deux sites (baies **SAN**, sauvegardes **Veeam**)
+- ☁️ **Microsoft 365** — administration de tenants clients (**Entra ID**, **Exchange Online**) et intégration du filtrage de messagerie **Hornetsecurity 365 Total Protection**
+- ⚙️ **Automatisation** — circuit d'approbation des demandes d'avoir avec **Power Automate** et **Microsoft Forms** (validation par la direction)
+- 🛡️ **Sécurité** — conception d'une **station blanche** de décontamination USB (Ubuntu, double moteur antivirus, rapports PDF)
+- 📚 **Documentation** — rédaction de procédures techniques pour le wiki de l'équipe (**BookStack**)
+- 🧰 **Support et maintenance** du parc (postes Windows, comptes, accès)
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 🖥️ Systèmes et infrastructure
+## 🧰 Compétences
 
-<p>
-  <a href="https://learn.microsoft.com/windows-server/"><img src="https://img.shields.io/badge/Windows_Server-151518?style=for-the-badge&logo=windows&logoColor=0078D4" alt="Windows Server" /></a>
-  <a href="https://learn.microsoft.com/windows-server/identity/ad-ds/"><img src="https://img.shields.io/badge/Active_Directory-151518?style=for-the-badge&logo=windows&logoColor=0078D4" alt="Active Directory" /></a>
-  <a href="https://learn.microsoft.com/windows-server/networking/"><img src="https://img.shields.io/badge/DNS_·_DHCP_·_GPO-151518?style=for-the-badge&logo=windows&logoColor=0078D4" alt="DNS, DHCP, GPO" /></a>
-  <a href="https://learn.microsoft.com/windows-server/virtualization/hyper-v/"><img src="https://img.shields.io/badge/Hyper--V-151518?style=for-the-badge&logo=windows&logoColor=0078D4" alt="Hyper-V" /></a>
-  <a href="https://www.veeam.com/"><img src="https://img.shields.io/badge/Veeam-151518?style=for-the-badge&logo=veeam&logoColor=00B336" alt="Veeam" /></a>
-  <a href="https://ubuntu.com/server"><img src="https://img.shields.io/badge/Ubuntu_Server-151518?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu Server" /></a>
-  <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-151518?style=for-the-badge&logo=debian&logoColor=D70A53" alt="Debian" /></a>
-  <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-151518?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,powershell,bash,python,cs,dotnet,azure,git,github,githubactions,sqlite,vscode&theme=dark&perline=15" alt="Windows, Linux, Ubuntu, Debian, PowerShell, Bash, Python, C#, .NET, Azure, Git, GitHub, GitHub Actions, SQLite, VS Code" />
 </p>
 
-## ☁️ Cloud et Microsoft 365
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-<p>
-  <a href="https://learn.microsoft.com/microsoft-365/"><img src="https://img.shields.io/badge/Microsoft_365-151518?style=for-the-badge&logo=microsoft&logoColor=D83B01" alt="Microsoft 365" /></a>
-  <a href="https://learn.microsoft.com/entra/"><img src="https://img.shields.io/badge/Entra_ID-151518?style=for-the-badge&logo=microsoft&logoColor=0078D4" alt="Entra ID" /></a>
-  <a href="https://learn.microsoft.com/exchange/exchange-online"><img src="https://img.shields.io/badge/Exchange_Online-151518?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4" alt="Exchange Online" /></a>
-  <a href="https://learn.microsoft.com/mem/intune/"><img src="https://img.shields.io/badge/Intune-151518?style=for-the-badge&logo=microsoft&logoColor=0078D4" alt="Intune" /></a>
-  <a href="https://learn.microsoft.com/azure/"><img src="https://img.shields.io/badge/Azure-151518?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure" /></a>
-  <a href="https://learn.microsoft.com/power-automate/"><img src="https://img.shields.io/badge/Power_Automate-151518?style=for-the-badge&logo=powerautomate&logoColor=0066FF" alt="Power Automate" /></a>
-</p>
+**🖥️ Systèmes et infrastructure**
 
-## 🌐 Réseaux et sécurité
+<img src="https://img.shields.io/badge/Windows_Server-151518?style=flat-square&logo=windows&logoColor=0078D4" alt="Windows Server" />
+<img src="https://img.shields.io/badge/Active_Directory-151518?style=flat-square&logo=windows&logoColor=0078D4" alt="Active Directory" />
+<img src="https://img.shields.io/badge/DNS_·_DHCP_·_GPO-151518?style=flat-square&logo=windows&logoColor=0078D4" alt="DNS, DHCP, GPO" />
+<img src="https://img.shields.io/badge/Hyper--V-151518?style=flat-square&logo=windows&logoColor=0078D4" alt="Hyper-V" />
+<img src="https://img.shields.io/badge/Veeam-151518?style=flat-square&logo=veeam&logoColor=00B336" alt="Veeam" />
+<img src="https://img.shields.io/badge/Ubuntu_Server-151518?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu Server" />
+<img src="https://img.shields.io/badge/Debian-151518?style=flat-square&logo=debian&logoColor=D70A53" alt="Debian" />
 
-<p>
-  <a href="https://www.pfsense.org/"><img src="https://img.shields.io/badge/pfSense-151518?style=for-the-badge&logo=pfsense&logoColor=FFFFFF" alt="pfSense" /></a>
-  <img src="https://img.shields.io/badge/TCP%2FIP_·_VLAN_·_VPN-151518?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="TCP/IP, VLAN, VPN" />
-  <a href="https://learn.microsoft.com/defender/"><img src="https://img.shields.io/badge/Microsoft_Defender-151518?style=for-the-badge&logo=microsoft&logoColor=00A4EF" alt="Microsoft Defender" /></a>
-  <a href="https://www.clamav.net/"><img src="https://img.shields.io/badge/ClamAV-151518?style=for-the-badge&logo=clamav&logoColor=FFFFFF" alt="ClamAV" /></a>
-  <a href="https://www.hornetsecurity.com/"><img src="https://img.shields.io/badge/Hornetsecurity-151518?style=for-the-badge&logoColor=white" alt="Hornetsecurity" /></a>
-</p>
+</td>
+<td valign="top" width="50%">
 
-## ⚙️ Automatisation et développement
+**☁️ Cloud et Microsoft 365**
 
-<p>
-  <a href="https://learn.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-151518?style=for-the-badge&logo=powershell&logoColor=5391FE" alt="PowerShell" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-151518?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-151518?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" /></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-151518?style=for-the-badge&logo=dotnet&logoColor=8B5CF6" alt="C#" /></a>
-  <a href="https://learn.microsoft.com/dotnet/desktop/wpf/"><img src="https://img.shields.io/badge/.NET_10_·_WPF-151518?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".NET 10, WPF" /></a>
-  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-151518?style=for-the-badge&logo=sqlite&logoColor=4FC3F7" alt="SQLite" /></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-151518?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /></a>
-  <a href="https://docs.github.com/actions"><img src="https://img.shields.io/badge/GitHub_Actions-151518?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" /></a>
-</p>
+<img src="https://img.shields.io/badge/Microsoft_365-151518?style=flat-square&logo=microsoft&logoColor=D83B01" alt="Microsoft 365" />
+<img src="https://img.shields.io/badge/Entra_ID-151518?style=flat-square&logo=microsoft&logoColor=0078D4" alt="Entra ID" />
+<img src="https://img.shields.io/badge/Exchange_Online-151518?style=flat-square&logo=microsoftoutlook&logoColor=0078D4" alt="Exchange Online" />
+<img src="https://img.shields.io/badge/Intune-151518?style=flat-square&logo=microsoft&logoColor=0078D4" alt="Intune" />
+<img src="https://img.shields.io/badge/Azure-151518?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
+<img src="https://img.shields.io/badge/Power_Automate-151518?style=flat-square&logo=powerautomate&logoColor=0066FF" alt="Power Automate" />
 
-## 🤖 IA
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-<p>
-  <a href="https://docs.claude.com/"><img src="https://img.shields.io/badge/Claude-151518?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude" /></a>
-  <a href="https://docs.claude.com/en/docs/claude-code/overview"><img src="https://img.shields.io/badge/Claude_Code-151518?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Code" /></a>
-  <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-151518?style=for-the-badge&logoColor=white" alt="Model Context Protocol" /></a>
-</p>
+**🌐 Réseaux et sécurité**
+
+<img src="https://img.shields.io/badge/TCP%2FIP_·_VLAN_·_VPN-151518?style=flat-square&logo=cisco&logoColor=1BA0D7" alt="TCP/IP, VLAN, VPN" />
+<img src="https://img.shields.io/badge/pfSense-151518?style=flat-square&logo=pfsense&logoColor=FFFFFF" alt="pfSense" />
+<img src="https://img.shields.io/badge/Microsoft_Defender-151518?style=flat-square&logo=microsoft&logoColor=00A4EF" alt="Microsoft Defender" />
+<img src="https://img.shields.io/badge/Hornetsecurity-151518?style=flat-square&logoColor=white" alt="Hornetsecurity" />
+<img src="https://img.shields.io/badge/ClamAV-151518?style=flat-square&logo=clamav&logoColor=FFFFFF" alt="ClamAV" />
+
+</td>
+<td valign="top">
+
+**⚙️ Automatisation, dev et IA**
+
+<img src="https://img.shields.io/badge/PowerShell-151518?style=flat-square&logo=powershell&logoColor=5391FE" alt="PowerShell" />
+<img src="https://img.shields.io/badge/C%23_·_.NET_10_·_WPF-151518?style=flat-square&logo=dotnet&logoColor=8B5CF6" alt="C#, .NET 10, WPF" />
+<img src="https://img.shields.io/badge/Python-151518?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/GitHub_Actions-151518?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Claude_Code-151518?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude Code" />
+<img src="https://img.shields.io/badge/MCP-151518?style=flat-square&logoColor=white" alt="Model Context Protocol" />
+
+</td>
+</tr>
+</table>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## 🚀 Projets
 
-| Projet | Description | Stack |
-|---|---|---|
-| **🎮 Nexus** | Mon launcher de jeux : regroupe Steam, Epic, Riot, Xbox et les jeux autonomes dans une seule bibliothèque, avec fiche par jeu, temps de jeu exact, jeux possédés non installés et mises à jour automatiques. | C# · WPF · .NET 10 · SQLite · GitHub Actions |
-| **⚡ Pulse** | Logiciel d'optimisation de mes PC : analyse notée sur 100, 42 réglages Windows annulables, nettoyage, espace disque, santé de la batterie, profil Jeu automatique, rapport HTML. Tourne sans droits admin. | C# · WPF · .NET 10 · PowerShell · Inno Setup |
-| **🛡️ Station Blanche** | Borne de décontamination de clés USB : analyse antivirus double moteur, identification du support, rapports PDF, interface kiosque. Procédure de déploiement et scripts rédigés de A à Z. | Ubuntu 24.04 · ClamAV · Bitdefender GravityZone · Bash |
-| **🏠 Homelab** | Infra perso isolée du réseau de la maison : hyperviseur, pare-feu virtualisé, NAS, médias, serveurs de jeu et IA en local. | Virtualisation · pfSense · NAS · Linux |
+<p align="center">
+  <img src="assets/projet-nexus.svg" width="49%" alt="Nexus : launcher de jeux (C#, WPF, .NET 10, SQLite)" />
+  <img src="assets/projet-pulse.svg" width="49%" alt="Pulse : optimisation et surveillance de PC (C#, WPF, PowerShell)" />
+</p>
+<p align="center">
+  <img src="assets/projet-station-blanche.svg" width="49%" alt="Station Blanche : borne de décontamination USB (Ubuntu, ClamAV, GravityZone)" />
+  <img src="assets/projet-homelab.svg" width="49%" alt="Homelab : infra perso isolée (virtualisation, pfSense, NAS)" />
+</p>
 
-<sub>🔒 Nexus et Pulse sont dans des dépôts privés.</sub>
+<p align="center"><sub>🔒 Nexus et Pulse sont développés dans des dépôts privés · Station Blanche est un projet d'entreprise</sub></p>
+
+## 📈 Activité
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/El-Kamzy-FR/El-Kamzy-FR/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/El-Kamzy-FR/El-Kamzy-FR/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/El-Kamzy-FR/El-Kamzy-FR/output/github-snake-dark.svg" width="100%" alt="Serpent qui mange mes contributions de l'année" />
+  </picture>
+</p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<p align="center"><sub>Fait avec PowerShell, beaucoup de café et <a href="https://claude.com/claude-code">Claude Code</a>.</sub></p>
+<p align="center">
+  <b>Ouvert aux échanges</b> : infrastructure, Microsoft 365, cybersécurité, outils Windows.<br/>
+  <a href="{{LINKEDIN}}">LinkedIn</a> · <a href="mailto:{{EMAIL}}">{{EMAIL}}</a>
+</p>
+
+<p align="center"><sub>Page générée en SVG fait maison · mise à jour automatique du serpent chaque nuit via GitHub Actions</sub></p>

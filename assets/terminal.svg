@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-label="Terminal : whoami, formation, centres d'intérêt et projets de Charly">
+  <defs>
+    <linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+    <style>
+      .t { font: 500 15px 'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+      .p { fill: #22D3EE; } .c { fill: #FAFAFA; } .o { fill: #A1A1AA; } .h { fill: #C4B5FD; } .ok { fill: #22C55E; }
+      .l { animation: in .35s ease-out backwards; }
+      .l1 { animation-delay: .3s } .l2 { animation-delay: .9s } .l3 { animation-delay: 1.6s } .l4 { animation-delay: 2.2s }
+      .l5 { animation-delay: 2.9s } .l6 { animation-delay: 3.5s } .l7 { animation-delay: 4.2s } .l8 { animation-delay: 4.8s } .l9 { animation-delay: 5.4s }
+      .cur { animation: in .1s 5.6s backwards, blink 1s 5.7s steps(1) infinite; }
+      @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="899" height="289" rx="14" fill="#0F0F12" stroke="#26262B"/>
+  <path d="M0.5 14.5a14 14 0 0 1 14-14h871a14 14 0 0 1 14 14v22h-899z" fill="#151518"/>
+  <circle cx="24" cy="19" r="6" fill="#EF4444"/><circle cx="44" cy="19" r="6" fill="#F59E0B"/><circle cx="64" cy="19" r="6" fill="#22C55E"/>
+  <text x="450" y="24" text-anchor="middle" class="t o" style="font-size:13px">pwsh — charly@el-kamzy-fr</text>
+  <rect x="0" y="37" width="900" height="2" fill="url(#a)" opacity=".6"/>
+
+  <text x="24" y="72" class="t l l1"><tspan class="p">PS&gt;</tspan><tspan class="c"> whoami</tspan></text>
+  <text x="24" y="96" class="t l l2"><tspan class="h">{{NOM}}</tspan><tspan class="o"> · alternant administrateur systèmes &amp; réseaux</tspan></text>
+  <text x="24" y="128" class="t l l3"><tspan class="p">PS&gt;</tspan><tspan class="c"> Get-Content .\formation.txt</tspan></text>
+  <text x="24" y="152" class="t l l4"><tspan class="ok">✔</tspan><tspan class="o"> BTS GMSI   </tspan><tspan class="h">▸</tspan><tspan class="o"> Licence ASR (en cours)   </tspan><tspan class="h">▸</tspan><tspan class="o"> Master (2027 → 2029)</tspan></text>
+  <text x="24" y="184" class="t l l5"><tspan class="p">PS&gt;</tspan><tspan class="c"> Get-Focus</tspan><tspan class="o"> | Sort-Object Passion -Descending</tspan></text>
+  <text x="24" y="208" class="t l l6"><tspan class="o">Cybersécurité · Cloud Microsoft · Infrastructure · Automatisation · IA</tspan></text>
+  <text x="24" y="240" class="t l l7"><tspan class="p">PS&gt;</tspan><tspan class="c"> Get-ChildItem .\projets</tspan></text>
+  <text x="24" y="264" class="t l l8"><tspan class="h">Nexus</tspan><tspan class="o">   </tspan><tspan class="h">Pulse</tspan><tspan class="o">   </tspan><tspan class="h">StationBlanche</tspan><tspan class="o">   </tspan><tspan class="h">Homelab</tspan></text>
+  <text x="372" y="264" class="t l l9"><tspan class="p">PS&gt;</tspan></text>
+  <rect x="412" y="251" width="9" height="17" fill="#22D3EE" class="cur"/>
+</svg>

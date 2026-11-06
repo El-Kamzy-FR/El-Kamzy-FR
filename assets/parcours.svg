@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Parcours : BTS GMSI 2024-2026 obtenu, Licence ASR 2026-2027 en cours, Master 2027-2029, en alternance">
+  <defs>
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="190" y1="0" x2="1010" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .y { font: 700 15px 'Cascadia Code', Consolas, monospace; fill: #71717A; }
+      .ti { font: 700 22px 'Segoe UI', Inter, system-ui, sans-serif; fill: #FAFAFA; }
+      .su { font: 400 14px 'Segoe UI', Inter, system-ui, sans-serif; fill: #A1A1AA; }
+      .chip { font: 700 11px 'Segoe UI', Inter, system-ui, sans-serif; letter-spacing: .6px; }
+      .now { animation: pulse 2.2s ease-in-out infinite; transform-origin: 600px 120px; }
+      .flow { stroke-dasharray: 8 10; animation: flow 1.2s linear infinite; }
+      @keyframes pulse { 0%,100% { opacity: .35; transform: scale(1); } 50% { opacity: .9; transform: scale(1.35); } }
+      @keyframes flow { to { stroke-dashoffset: -18; } }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="329" rx="18" fill="#0F0F12" stroke="#26262B"/>
+
+  <!-- Ligne du temps -->
+  <line x1="190" y1="120" x2="600" y2="120" stroke="url(#a)" stroke-width="4" stroke-linecap="round"/>
+  <line x1="600" y1="120" x2="1010" y2="120" stroke="#3F3F46" stroke-width="4" stroke-linecap="round" class="flow"/>
+
+  <!-- BTS GMSI -->
+  <text x="190" y="72" text-anchor="middle" class="y">2024 → 2026</text>
+  <circle cx="190" cy="120" r="14" fill="#8B5CF6"/>
+  <path d="M183 120l5 5 9-10" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="190" y="176" text-anchor="middle" class="ti">BTS GMSI</text>
+  <text x="190" y="200" text-anchor="middle" class="su">Maintenance et support informatique</text>
+  <rect x="148" y="216" width="84" height="22" rx="11" fill="#22C55E" fill-opacity=".15"/>
+  <text x="190" y="231" text-anchor="middle" class="chip" fill="#22C55E">OBTENU</text>
+
+  <!-- Licence ASR (maintenant) -->
+  <text x="600" y="72" text-anchor="middle" class="y">2026 → 2027</text>
+  <circle cx="600" cy="120" r="26" fill="#22D3EE" class="now"/>
+  <circle cx="600" cy="120" r="15" fill="#22D3EE" filter="url(#glow)"/>
+  <text x="600" y="176" text-anchor="middle" class="ti">Licence ASR</text>
+  <text x="600" y="200" text-anchor="middle" class="su">Administrateur systèmes et réseaux</text>
+  <rect x="554" y="216" width="92" height="22" rx="11" fill="#22D3EE" fill-opacity=".15"/>
+  <text x="600" y="231" text-anchor="middle" class="chip" fill="#22D3EE">EN COURS</text>
+
+  <!-- Master -->
+  <text x="1010" y="72" text-anchor="middle" class="y">2027 → 2029</text>
+  <circle cx="1010" cy="120" r="14" fill="#0F0F12" stroke="#8B5CF6" stroke-width="3"/>
+  <text x="1010" y="176" text-anchor="middle" class="ti">Master</text>
+  <text x="1010" y="200" text-anchor="middle" class="su">Bac+5 en alternance</text>
+  <rect x="966" y="216" width="88" height="22" rx="11" fill="#8B5CF6" fill-opacity=".18"/>
+  <text x="1010" y="231" text-anchor="middle" class="chip" fill="#C4B5FD">OBJECTIF</text>
+
+  <!-- Alternance -->
+  <rect x="190" y="272" width="820" height="30" rx="15" fill="#151518" stroke="#26262B"/>
+  <rect x="190" y="272" width="410" height="30" rx="15" fill="url(#a)" opacity=".22"/>
+  <text x="600" y="292" text-anchor="middle" class="su" style="fill:#E4E4E7">Tout le parcours en alternance · en entreprise depuis 2024 · {{ENTREPRISE}}</text>
+</svg>

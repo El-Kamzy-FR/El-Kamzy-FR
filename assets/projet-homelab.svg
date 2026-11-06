@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="240" viewBox="0 0 580 240" role="img" aria-label="Projet Homelab : Mon infra perso, isolée du réseau de la maison : hyperviseur, pare-feu virtualisé, NAS de plusieurs To, switch 2,5 Gb. Médias, serveurs de jeu et IA locale.">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#F59E0B"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <radialGradient id="r" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".16"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <style>
+      .n { font: 700 24px 'Segoe UI Variable Display', 'Segoe UI', Inter, system-ui, sans-serif; fill: #FAFAFA; }
+      .s { font: 600 12px 'Segoe UI', Inter, system-ui, sans-serif; }
+      .d { font: 400 14px 'Segoe UI', Inter, system-ui, sans-serif; fill: #A1A1AA; }
+      .tag { font: 600 11.5px 'Cascadia Code', Consolas, monospace; fill: #D4D4D8; }
+      .bar { animation: sweep 3.5s ease-in-out infinite alternate; }
+      @keyframes sweep { from { opacity: .55; } to { opacity: 1; } }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="579" height="239" rx="16" fill="#0F0F12" stroke="#26262B"/>
+  <rect x="0.5" y="0.5" width="579" height="239" rx="16" fill="url(#r)"/>
+  <rect x="0" y="0" width="580" height="4" rx="2" fill="url(#g)" class="bar"/>
+  <text x="28" y="56" class="n">🏠 Homelab</text>
+  <circle cx="459" cy="42" r="4" fill="#A1A1AA"/>
+  <text x="552" y="46" text-anchor="end" class="s" fill="#A1A1AA">En conception</text>
+  <text x="28" y="104" class="d">Mon infra perso, isolée du réseau de la maison :</text><text x="28" y="125" class="d">hyperviseur, pare-feu virtualisé, NAS de plusieurs To,</text><text x="28" y="146" class="d">switch 2,5 Gb. Médias, serveurs de jeu et IA locale.</text>
+  <rect x="28" y="196" width="120" height="24" rx="12" fill="#1C1C21" stroke="#2E2E35"/><text x="88" y="212" text-anchor="middle" class="tag">Virtualisation</text><rect x="156" y="196" width="67" height="24" rx="12" fill="#1C1C21" stroke="#2E2E35"/><text x="189.5" y="212" text-anchor="middle" class="tag">pfSense</text><rect x="231" y="196" width="37" height="24" rx="12" fill="#1C1C21" stroke="#2E2E35"/><text x="249.5" y="212" text-anchor="middle" class="tag">NAS</text><rect x="276" y="196" width="44" height="24" rx="12" fill="#1C1C21" stroke="#2E2E35"/><text x="298" y="212" text-anchor="middle" class="tag">VLAN</text><rect x="328" y="196" width="82" height="24" rx="12" fill="#1C1C21" stroke="#2E2E35"/><text x="369" y="212" text-anchor="middle" class="tag">IA locale</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="240" viewBox="0 0 580 240" role="img" aria-label="Projet Station Blanche : Borne de décontamination de clés USB : double moteur antivirus, identification du support, rapports PDF, interface kiosque verrouillée. Procédure de déploiement et scripts écrits de A à Z.">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#22C55E"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+    <radialGradient id="r" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#22D3EE" stop-opacity=".16"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <style>
+      .n { font: 700 24px 'Segoe UI Variable Display', 'Segoe UI', Inter, system-ui, sans-serif; fill: #FAFAFA; }
+      .s { font: 600 12px 'Segoe UI', Inter, system-ui, sans-serif; }
+      .d { font: 400 14px 'Segoe UI', Inter, system-ui, sans-serif; fill: #A1A1AA; }
+      .tag { font: 600 11.5px 'Cascadia Code', Consolas, monospace; fill: #D4D4D8; }
+      .bar { animation: sweep 3.5s ease-in-out infinite alternate; }
+      @keyframes sweep { from { opacity: .55; } to { opacity: 1; } }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="579" height="239" rx="16" fill="#0F0F12" stroke="#26262B"/>
+  <rect x="0.5" y="0.5" width="579" height="239" rx="16" fill="url(#r)"/>
+  <rect x="0" y="0" width="580" height="4" rx="2" fill="url(#g)" class="bar"/>
+  <text x="28" y="56" class="n">🛡️ Station Blanche</text>
+  <circle cx="339" cy="42" r="4" fill="#F59E0B"/>
+  <text x="552" y="46" text-anchor="end" class="s" fill="#F59E0B">Projet d'entreprise · v6 en test</text>
+  <text x="28" y="104" class="d">Borne de décontamination de clés USB : double</text><text x="28" y="125" class="d">moteur antivirus, identification du support,</text><text x="28" y="146" class="d">rapports PDF, interface kiosque verrouillée.</text><text x="28" y="167" class="d">Procédure de déploiement et scripts écrits de A à Z.</text>
+  <rect x="28" y="196" width="105" height="24" rx="12" fill="#1C1C21" stroke="#2E2E35"/><text x="80.5" y="212" text-anchor="middle" class="tag">Ubuntu 24.04</text><rect x="141" y="196" width="60" height="24" rx="12" fill="#1C1C21" stroke="#2E2E35"/><text x="171" y="212" text-anchor="middle" class="tag">ClamAV</text><rect x="209" y="196" width="98" height="24" rx="12" fill="#1C1C21" stroke="#2E2E35"/><text x="258" y="212" text-anchor="middle" class="tag">GravityZone</text><rect x="315" y="196" width="44" height="24" rx="12" fill="#1C1C21" stroke="#2E2E35"/><text x="337" y="212" text-anchor="middle" class="tag">Bash</text><rect x="367" y="196" width="67" height="24" rx="12" fill="#1C1C21" stroke="#2E2E35"/><text x="400.5" y="212" text-anchor="middle" class="tag">Kiosque</text>
+</svg>

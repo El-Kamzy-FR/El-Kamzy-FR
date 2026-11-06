@@ -37,7 +37,7 @@
 
     <!-- Texte -->
     <text x="64" y="118" class="name" fill="url(#accent)">Charly</text>
-    <text x="300" y="118" class="meta" dy="-8">@El-Kamzy-FR</text>
+    <text x="68" y="54" class="mono" fill="#71717A">@El-Kamzy-FR · github</text>
     <text x="66" y="162" class="role">Administration systèmes &amp; réseaux · Cloud Microsoft · Automatisation</text>
     <text x="66" y="194" class="meta">Licence Administrateur Systèmes et Réseaux en alternance · BTS GMSI obtenu</text>
 
@@ -47,6 +47,7 @@
     <rect x="560" y="240" width="9" height="18" fill="#22D3EE" class="dot"/>
 
     <!-- Trace « pulse » (clin d'oeil au projet Pulse) -->
+    <path d="M640 200 H760 L784 150 L812 252 L840 110 L866 230 L888 200 H1136" fill="none" stroke="url(#accent)" stroke-opacity=".28" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
     <path class="pulse" d="M640 200 H760 L784 150 L812 252 L840 110 L866 230 L888 200 H1136"
           fill="none" stroke="url(#accent)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
     <circle cx="1136" cy="200" r="5" fill="#22D3EE"/>
