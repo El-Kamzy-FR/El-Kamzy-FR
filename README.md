@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://el-kamzy-fr.github.io"><img src="https://img.shields.io/badge/Mon_site_3D-el--kamzy--fr.github.io-151518?style=for-the-badge&logo=threedotjs&logoColor=22D3EE&labelColor=8B5CF6" alt="Mon site 3D : el-kamzy-fr.github.io" /></a>
   <a href="https://github.com/El-Kamzy-FR?tab=repositories"><img src="https://img.shields.io/badge/Mes_dépôts-151518?style=for-the-badge&logo=github&logoColor=white" alt="Mes dépôts" /></a>
   <img src="https://komarev.com/ghpvc/?username=El-Kamzy-FR&label=Visites&color=8B5CF6&style=for-the-badge" alt="Visites du profil" />
 </p>
@@ -122,7 +123,8 @@
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center">
-  <b>Ouvert aux échanges</b> : infrastructure, Microsoft 365, cybersécurité, outils Windows.
+  <b>Ouvert aux échanges</b> : infrastructure, Microsoft 365, cybersécurité, outils Windows.<br/>
+  🌐 <a href="https://el-kamzy-fr.github.io">el-kamzy-fr.github.io</a> — mon portfolio en 3D
 </p>
 
 <p align="center"><sub>Page générée en SVG fait maison · mise à jour automatique du serpent chaque nuit via GitHub Actions</sub></p>
